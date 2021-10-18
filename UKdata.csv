@@ -1,0 +1,5 @@
+,_c0,Customer_Id,Customer_Name,Open_date,Last_Consulted_Date,Vaccination_Id,Dr_Name,State,Country,DOB,Is_Active
+0,3,432,pooja,2021-08-06,2022-08-06,CSD,Pooja,CO,UK,1995-07-06,A
+1,7,653,Arjun,2021-02-09,2022-07-10,MVD,John,SG,UK,1994-06-07,A
+2,13,876,simran,2021-01-08,2022-01-08,CSD,Mathew,AL,UK,1998-08-03,A
+3,14,987,kumar,2021-04-09,2022-04-09,CSD,Piter,CO,UK,1993-10-03,A
