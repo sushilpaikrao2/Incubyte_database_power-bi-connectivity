@@ -1,4 +1,2 @@
 # Incubyte_database_power-bi-connectivity
-Incubyte assessment 
-after done database after that we created csv file contry wise like IND,USA,UK,NYU
-last steps i'm done mysql database and power bi connectivity and showing some graphs.
+Incubyte Assessment steps step 1: create a table using MySQL workbench. step 2: Connect the database with Python. step 3:country wise create CSV files like IND, USA, UK, and NYU. step 4:all the files are stored in the GitHub repository. step 5: start sparl session. step 6: get the data from GitHub using the GitHub URL. step 7:create row table data which is all country. step 8:contry wise create a table step 9:country wise create CSV files like IND, USA, UK, and NYU. step 10:store all files in the GitHub repository.
